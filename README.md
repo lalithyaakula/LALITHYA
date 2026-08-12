@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ CSE Student | Aspiring Software Engineer<br>🐍 Python • DSA • Full Stack • Generative AI<br>☕ Basics of Java & C<br>🔥 300+ Coding Problems Solved<br>🚀 Building impactful real-world projects<br>📈 Learning and improving every single day
+✨ CSE Student | Aspiring Software Engineer<br>🐍 Python • DSA • Full Stack • Generative AI<br>☕ Basics of Java & C<br>🔥 500+ coding Problems Solved<br>🚀 Building impactful real-world projects<br>📈 Learning and improving every single day
 
 
 ## 🌐 Socials:
